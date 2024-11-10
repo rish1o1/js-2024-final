@@ -1,0 +1,20 @@
+  # PRIMITIVE 
+
+  TYPE      TYPEOF
+
+  NUMBER     number 
+  STRING     string 
+  BOOLEAN    boolean 
+  BIGINT     BIGINT
+  SYMBOL     symbol 
+  NULL       object
+  UNDEFINED  UNDEFINED
+
+
+  # NON PRIMITIVE 
+
+  TYPE      TYPEOF 
+
+  OBJECT    OBJECT 
+  ARRAY     OBJECT 
+  FUNCTION  OBJECT FUNTION 
